@@ -12,3 +12,12 @@ Documentation:
 https://developer.huawei.com/consumer/en/doc/development/HMSCore-Guides/oauth2-0000001212610981#section128682386159
 
 For use in docker application use public image oh docker hub: https://hub.docker.com/r/ekudinov/huawei-push-authorizator
+
+Request:
+
+curl -H 'X-API-TOKEN:123456' localhost:8077/auth
+
+Respose:
+
+CwEAAAAAMAZyVo7AgWupjxcME5d6Zkr5u7hdv+H3XkxxcCQLHeimUims6mTxxkdwmB/EUQVeVG0xkW0yM95WwcoyGrsZst1PO2wc=
+
