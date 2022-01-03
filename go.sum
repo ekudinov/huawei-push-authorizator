@@ -1,0 +1,6 @@
+github.com/caarlos0/env/v6 v6.9.1 h1:zOkkjM0F6ltnQ5eBX6IPI41UP/KDGEK7rRPwGCNos8k=
+github.com/caarlos0/env/v6 v6.9.1/go.mod h1:hvp/ryKXKipEkcuYjs9mI4bBCg+UI0Yhgm5Zu0ddvwc=
+github.com/ekudinov/hms-push-go v0.0.0-20220102054952-b91d4c8d1b23 h1:PkXHuy0KHm6haPnFjMAFE94G+rx9/AA4X4ovYg9nRCU=
+github.com/ekudinov/hms-push-go v0.0.0-20220102054952-b91d4c8d1b23/go.mod h1:CYlNrGs2mlJZYbigaiqnKXUazBlVqNr4avx81xLc658=
+github.com/gorilla/mux v1.8.0 h1:i40aqfkR1h2SlN9hojwV5ZA91wcXFOvkdNIeFDP5koI=
+github.com/gorilla/mux v1.8.0/go.mod h1:DVbg23sWSpFRCP0SfiEN6jmj59UnW/n46BH5rLB71So=

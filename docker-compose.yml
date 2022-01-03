@@ -1,0 +1,12 @@
+version: '3.7'
+
+services:
+    huawei-push-authorizator:
+        image: huawei-push-authorizator
+        env_file:
+            - .env.local
+        ports:
+            - "8077:8077"
+        logging:
+            options:
+                max-size: "4m"
